@@ -1,0 +1,67 @@
+{
+  "Result": {
+    "id": 1027,
+    "createdOn": "2020-11-01T18:04:35.937",
+    "agreedDate": "2020-11-20T00:00:00",
+    "arrivalDate": "2020-11-25T00:00:00",
+    "delivery": true,
+    "orderDetailList": [
+      {
+        "color": "Amarillo",
+        "material": "ABS",
+        "resolution": "1mm",
+        "size": "20mm * 20mm * 20mm"
+      }
+    ],
+    "orderStatusList": [
+      {
+        "createdOn": "2020-11-01T21:56:23.97",
+        "status": "Aprobado administrativamente"
+      },
+      {
+        "createdOn": "2020-11-01T21:56:24.667",
+        "status": "Pendiente de aprobación técnica"
+      },
+      {
+        "createdOn": "2020-11-01T21:56:39.277",
+        "status": "Aceptado"
+      },
+      {
+        "createdOn": "2020-11-01T21:56:40.86",
+        "status": "Presupuesto generado"
+      },
+      {
+        "createdOn": "2020-11-01T21:56:47.347",
+        "status": "Esperando confirmación de presupuesto"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:03.753",
+        "status": "Presupuesto confirmado por el cliente"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:04.437",
+        "status": "En espera de datos pago y envío"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:05.033",
+        "status": "Datos de pago y envío confirmado"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:05.787",
+        "status": "En espera de pago"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:11.393",
+        "status": "Cliente confirma pago"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:26.983",
+        "status": "Pago recibido"
+      },
+      {
+        "createdOn": "2020-11-01T21:57:27.837",
+        "status": "En producción"
+      }
+    ]
+  }
+}
